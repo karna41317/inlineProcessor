@@ -1,0 +1,20 @@
+body {
+	background-color: #a9a9a9;
+	margin: 0px;
+}
+.intro-main {
+	width: 100%;
+	margin: auto;
+	height: 100%;
+}
+
+.intro-image {
+	max-width: 90%;
+	max-height: 90%;
+	margin: 10px auto 10px auto;
+	box-shadow: 5px 5px 5px #666666;
+}
+
+.slick-dots {
+	bottom: -15px;
+}

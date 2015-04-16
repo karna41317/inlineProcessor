@@ -1,0 +1,17 @@
+{
+	"name": "htmlprocessor",
+	"version": "0.1.10",
+	"scripts": {
+		"test": "node test/run.js"
+	},
+	"main": "./lib/htmlprocessor",
+	"bin": {
+		"htmlprocessor": "./bin/htmlprocessor"
+	},
+	"dependencies": {
+		"lodash": "~2.4.1"
+	},
+	"devDependencies": {
+		"nodeunit": "~0.8.6"
+	}
+}
